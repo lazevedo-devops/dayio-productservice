@@ -1,0 +1,19 @@
+{
+  "name": "dayio-productservice",
+  "version": "1.0.0",
+  "description": "Sample Application that exposes REST API through 8080 port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazevedo-devops/dayio-productservice.git"
+  },
+  "author": "lazevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazevedo-devops/dayio-productservice/issues"
+  },
+  "homepage": "https://github.com/lazevedo-devops/dayio-productservice#readme"
+}
